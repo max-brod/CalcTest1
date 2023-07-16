@@ -1,4 +1,15 @@
-# CalcTest1
+Notee: This repository is now set to "read-only" and development of the application is halted.
+"CalcTest1" was a very simple console-based application written in C++. Its purpose was for me to attempt to apply some of what I was learning from the page [LearnCpp](https://www.learncpp.com/) in the form of a simple calculator.
+After initial tests, I noticed that I didn't like the way the application code was written. A successor to this application can be found at [wbxchange/CalcTest2](https://github.com/wbxchange/CalcTest2).
+
+If you, for some reason, want to use this application yourself: I have now attached the UNLICENSE "licensse" to this repository, subsequently releasing it to the public domain (as-is).
+
+Date: July 16th, 2023
+
+<details>
+  <summary>CalcTest1: Application README</summary>
+
+  # CalcTest1
 
 This console-only application contains basic arithmetic functions as a proof-of-learning milestone for mysel and is absolutely not intended for production. Release included for testing.
 
@@ -29,3 +40,5 @@ There will be no further improvements to CalcTest1 after this patch. Any further
 Thank you for understanding.
 
 Date of update finish: 25.10.2022, 19:45 CEST
+
+</details>
