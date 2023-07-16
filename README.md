@@ -1,4 +1,4 @@
-Notee: This repository is now set to "read-only" and development of the application is halted.
+Note: This repository is now set to "read-only" and development of the application is halted.
 "CalcTest1" was a very simple console-based application written in C++. Its purpose was for me to attempt to apply some of what I was learning from the page [LearnCpp](https://www.learncpp.com/) in the form of a simple calculator.
 After initial tests, I noticed that I didn't like the way the application code was written. A successor to this application can be found at [wbxchange/CalcTest2](https://github.com/wbxchange/CalcTest2).
 
@@ -11,7 +11,7 @@ Date: July 16th, 2023
 
   # CalcTest1
 
-This console-only application contains basic arithmetic functions as a proof-of-learning milestone for mysel and is absolutely not intended for production. Release included for testing.
+This console-only application contains basic arithmetic functions as a proof-of-learning milestone for myself and is absolutely not intended for production. Release included for testing.
 
 Features:
 * Simple 4 choices prompt with user input (through "cin")
