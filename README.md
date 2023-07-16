@@ -2,7 +2,7 @@ Note: This repository is now set to "read-only" and development of the applicati
 "CalcTest1" was a very simple console-based application written in C++. Its purpose was for me to attempt to apply some of what I was learning from the page [LearnCpp](https://www.learncpp.com/) in the form of a simple calculator.
 After initial tests, I noticed that I didn't like the way the application code was written. A successor to this application can be found at [wbxchange/CalcTest2](https://github.com/wbxchange/CalcTest2).
 
-If you, for some reason, want to use this application yourself: I have now attached the UNLICENSE "licensse" to this repository, subsequently releasing it to the public domain (as-is).
+If you want to use this application and/or its code yourself: I have now attached the UNLICENSE "licensse" to this repository, subsequently releasing it to the public domain (as-is).
 
 Date: July 16th, 2023
 
